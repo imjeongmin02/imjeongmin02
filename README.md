@@ -8,6 +8,11 @@
 
 
 
+![살려줘](./살려줘.jpg)
+
+
+**살려줘**
+
 <!--
 **imjeongmin02/imjeongmin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
