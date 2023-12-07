@@ -1,4 +1,12 @@
-### Hi there 👋
+#git hub 포트폴리오 꾸미기  👋
+---
+
+서정민 / 2002 / 영남이공대학교 / 
+---
+
+[영남이공대학교](https://ync.ac.kr/kor/Main.do)
+
+
 
 <!--
 **imjeongmin02/imjeongmin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
